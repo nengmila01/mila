@@ -1,0 +1,14 @@
+  table {
+    width: 100%;
+    border-collapse: collapse;
+   }
+   th, td {
+    padding: 10px;
+    border: 1px solid #dddddd;
+   }
+th {
+    background-color: pink;
+}
+tr:nth-child(even) {
+    background-color: palevioletred;
+}
